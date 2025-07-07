@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-🔭 I’m currently working on improving my Web Development and Problem-Solving skills<br><br>🌱 I’m currently learning Next.js, Node.js and TypeScript<br><br>👨‍💻 All of my projects are available at [My GitHub](https://github.com/Drashya2code)<br><br>📝 I regularly solve problems on [LeetCode](https://leetcode.com/u/Drashya2code/)<br><br>💬 Ask me about JavaScript, React, Node.js and Java<br><br>📫 How to reach me: kathuriadrashya@gmail.com<br><br>📄 Know more about me on [LinkedIn](https://www.linkedin.com/in/drashyakathuria/)
+🔭 I’m currently working on improving my Web Development and Problem-Solving skills<br><br>🌱 I’m currently learning Next.js, Node.js and TypeScript<br><br>👨‍💻 All of my projects are available at (https://github.com/Drashya2code)<br><br>📝 I regularly solve problems on (https://leetcode.com/u/Drashya2code/)<br><br>💬 Ask me about JavaScript, React, Node.js and Java<br><br>📫 How to reach me: kathuriadrashya@gmail.com<br><br>📄 Know more about me on (https://www.linkedin.com/in/drashyakathuria/)
 
 ## 🌐 Socials:
 
